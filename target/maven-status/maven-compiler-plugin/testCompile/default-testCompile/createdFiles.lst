@@ -1,0 +1,4 @@
+com\scoutIT\test\BaseTest.class
+com\scoutIT\test\InviteTest.class
+com\scoutIT\test\AppTest.class
+util\TestDriverManager.class

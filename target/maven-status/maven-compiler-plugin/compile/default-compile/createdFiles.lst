@@ -1,0 +1,6 @@
+com\scoutIT\pages\AppPage.class
+com\scoutIT\util\TestConfigReader.class
+com\scoutIT\pages\LandingPage.class
+com\scoutIT\pages\BasePage.class
+com\scoutIT\pages\LoginPage.class
+com\scoutIT\pages\Invitepage.class
